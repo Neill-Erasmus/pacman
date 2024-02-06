@@ -50,6 +50,10 @@ By leveraging deep convolutional neural networks, Deep Convolutional Q-Learning 
 
 ## Overview of Pacman Environment
 
+<p align="center">
+  <img src="https://github.com/Neill-Erasmus/lunar-lander/assets/141222943/9445979b-819f-44ba-8878-01001bcab344" alt="video">
+</p>
+
 ### Description
 
 The Pacman environment is a classic arcade game where the player controls Pacman, a character moving around a maze, eating food pellets while avoiding ghosts. When Pacman consumes a Power Pellet, it gains the ability to eat the ghosts.
