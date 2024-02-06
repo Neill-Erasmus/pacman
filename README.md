@@ -51,7 +51,7 @@ By leveraging deep convolutional neural networks, Deep Convolutional Q-Learning 
 ## Overview of Pacman Environment
 
 <p align="center">
-  <img src="https://github.com/Neill-Erasmus/lunar-lander/assets/141222943/9445979b-819f-44ba-8878-01001bcab344" alt="video">
+  <img src="https://github.com/Neill-Erasmus/pacman/assets/141222943/3eb890b6-5143-41e1-9630-064e966790cf" alt="video">
 </p>
 
 ### Description
